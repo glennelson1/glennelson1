@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Glen Nelson
-- 👀 I’m a BSc (Hons) Computer Games Development Student at Staffordshire University
+- I’m Currently doing a Masters by Negotiated study at Staffordshire University 
+- BSc (Hons) Computer Games Development
 - 📫https://glennelson1.github.io
 
 <!---
